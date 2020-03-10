@@ -1,6 +1,8 @@
 {
   "name": "burger-app",
+<<<<<<< HEAD
   "version": "0.1.1",
+>>>>>>> cba7fda4964cb70a408d127032a62ea233be5d5b
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
